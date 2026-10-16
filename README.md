@@ -2,8 +2,8 @@
 
 A responsive coffee shop app UI built with **React** and **Vite**. It works on mobile, tablet and desktop.
 
-**Live demo:** https://YOUR-LIVE-LINK-HERE
-**Design reference:** Coffee Shop Mobile App Design (figmamarket.com)
+**Live demo:** coffee-shop-51wj5doy1-ft-end.vercel.app
+**Github repository url:** https://github.com/dhanushbabu0118/coffee-shop
 
 ## Screens
 
